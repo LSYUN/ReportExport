@@ -1,0 +1,5 @@
+rootProject.name = 'test2'
+include 'controller'
+include 'service'
+include 'dao'
+
